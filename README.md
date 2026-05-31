@@ -271,10 +271,12 @@ Happy Birthday once again. Enjoy your day, keep smiling, and don't forget to sen
 
 <!-- REPLACE THESE FILE NAMES -->
 
-<img src="photo1.jpg">
-<img src="photo2.jpg">
-<img src="photo3.jpg">
-<img src="photo4.jpg">
+<img src=" HG photo 1.jpeg">
+<img src="Photo 2.jpeg">
+<img src="Photo 3.jpeg">
+<img src="Photo 5.jpeg">
+<img src="Photo 6.jpeg">
+<img src="Photo 7.jpeg">
 
 </div>
 
@@ -314,7 +316,7 @@ Made with ❤️ for my BABBY(HG)
 <!-- Replace music.mp3 with your song -->
 
 <audio id="music" loop>
-<source src="music.mp3" type="audio/mpeg">
+<source src="Kali Uchis-All I Can Say(2).mp3" type="audio/mpeg">
 </audio>
 
 <button class="btn music-btn" onclick="toggleMusic()">
