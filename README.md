@@ -272,11 +272,11 @@ Happy Birthday once again. Enjoy your day, keep smiling, and don't forget to sen
 <!-- REPLACE THESE FILE NAMES -->
 
 <img src=" HG photo 1.jpeg">
-<img src="Photo 2.jpeg">
-<img src="Photo 3.jpeg">
-<img src="Photo 5.jpeg">
-<img src="Photo 6.jpeg">
-<img src="Photo 7.jpeg">
+<img src="Photo2.jpeg">
+<img src="Photo3.jpeg">
+<img src="Photo5.jpeg">
+<img src="Photo6.jpeg">
+<img src="Photo7.jpeg">
 
 </div>
 
